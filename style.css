@@ -1,19 +1,50 @@
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
 .CAR{
     background-color: #4A90E2;
+    border-radius: 10%;
     padding-top: 3px;
     padding-right: 5px;
     padding-bottom: 3px;
     padding-left: 5px;
 }
 .premium{
+    padding-left: 375px;
     padding-right: 6px;
     padding-top: 3px;
     padding-bottom: 3px;
 }
 .home{
     padding-left: 301px;
+    padding-right: 41px;
+}
+.recipes{
+    padding-right: 41px;
+}
+.article{
+    padding-right: 41px;
 }
 a {
     text-decoration: none;
-    color: #c22b59;
+    color: #ffff;
+}
+.logo{
+    padding-left: 385px;
+    padding-top: -1px;
+}
+.left-flex{
+    background-color: #000000;
+    padding: 90px;
+}
+.cars1{
+    padding-left: 375px;
+    padding-top: 30px;
+}
+.veichle{
+    background-color: #4A90E2;
 }
