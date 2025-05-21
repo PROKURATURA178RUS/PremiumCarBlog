@@ -54,7 +54,6 @@ a {
 .topmenu__link:active {
   color: mediumvioletred;
 }
-
 .mostPopular__top {
   padding-top: 30px;
   padding-bottom: 35px;
@@ -407,10 +406,6 @@ a {
   color: white;
   border: 1px solid #4CAF50;
 }
-.pagination a:hover:not(.active) {
-  background-color: #ddd;
-}
-
 .mostPopularBottom {
   padding-bottom: 79px;
 }
