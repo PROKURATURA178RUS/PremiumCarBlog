@@ -52,7 +52,7 @@ a {
   margin-right: 0;
 }
 .topmenu__link:active {
-  color: mediumvioletred;
+  color: rgb(221, 11, 144);
 }
 .mostPopular__top {
   padding-top: 30px;
@@ -282,7 +282,8 @@ a {
   flex-wrap: wrap;
 }
 .mainContent__sidebar-instagramPic {
-  width: 48.051948052%;
+  width: 130px;
+  height: 130px;
   margin-bottom: 10px;
 }
 .mainContent__sidebar-instagram-title {
@@ -392,6 +393,14 @@ a {
 .pagination {
   display: inline-block;
 }
+#pagination1{
+width: 40px;
+height: 40px;
+align-content: center;  
+}
+#pagination2{
+  align-content: center; 
+}
 .pagination a {
   color: black;
   float: left;
@@ -400,11 +409,12 @@ a {
   transition: background-color .3s;
   border: 1px solid #ddd;
   margin: 0 4px;
+  border-radius: 10%;
 }
 .pagination a.active {
   background-color: rgb(0, 0, 0);
   color: white;
-  border: 1px solid #4CAF50;
+  border: 1px solid #FFFFFF;
 }
 .mostPopularBottom {
   padding-bottom: 79px;
@@ -512,9 +522,12 @@ a {
 }
 .footerContent__recentPosts-itemPicContainer {
   margin-right: 20px;
+  width: 95px;
+  height: 95px;
 }
 .footerContent__recentPosts-pic {
-  width: 35,1851851852%;
+  width: 95px;
+  height: 95px;
   border-radius: 3px;
 }
 .footerContent__recentPosts-itemText {
