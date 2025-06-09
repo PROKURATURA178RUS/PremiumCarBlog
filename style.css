@@ -15,7 +15,7 @@ a {
   top: 20px;
   left: 20px;
   border-radius: 4px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -41,7 +41,7 @@ a {
 }
 .topmenu__link {
   margin-right: 35px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -95,11 +95,11 @@ a {
   justify-content: flex-end;
   padding: 58px 100px 12px 20px;
   padding-right: 90px; 
-  background: linear-gradient(180deg, rgba(0, 0, 0, 7.5e-05) 0%, rgba(0, 0, 0, 0.75) 82.82%);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.75) 82.82%);
   color: white;
 }
 .mostPopular__label {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -108,7 +108,7 @@ a {
   margin-bottom: 10px;
 }
 .mostPopular__title {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -161,14 +161,14 @@ a {
   top: 30px;
   left: 20px;
   border-radius: 4px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 16px;
 }
 .mainContent__cardsItems-title {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 25px;
@@ -177,7 +177,7 @@ a {
   margin-bottom: 15px;
 }
 .mainContent__cardsItems-label {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: italic;
   font-weight: normal;
   font-size: 14px;
@@ -186,7 +186,7 @@ a {
   margin-bottom: 15px;
 }
 .mainContent__cardsItems-description {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -197,7 +197,7 @@ a {
   margin-bottom: 20px;
 }
 .mainContent__sidebar-articleName {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -208,7 +208,7 @@ a {
   text-align: left;
 }
 .mainContent__sidebar-articlePosition {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: italic;
   font-weight: normal;
   font-size: 14px;
@@ -219,7 +219,7 @@ a {
   text-align: left;
 }
 .mainContent__sidebar-articleContent {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 15px;
@@ -231,7 +231,7 @@ a {
 .mainContent__sidebar-articleButton {
   background: #232323;
   border-radius: 5px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -243,7 +243,7 @@ a {
   margin-bottom: 60px;
 }
 .mainContent__sidebar-postsName {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -259,7 +259,7 @@ a {
   margin-bottom: 20px;
 }
 .mainContent__sidebar-postsTitle {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -268,7 +268,7 @@ a {
   margin-bottom: 10px;
 }
 .mainContent__sidebar-postsLabel {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: italic;
   font-weight: normal;
   font-size: 14px;
@@ -287,7 +287,7 @@ a {
   margin-bottom: 10px;
 }
 .mainContent__sidebar-instagram-title {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -313,7 +313,7 @@ a {
 }
 .mainContent__sidebar-tagsList-title {
   text-align: left;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -323,7 +323,7 @@ a {
 }
 .mainContent__sidebar-tagsList-item {
   padding: 7px 17px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -334,7 +334,7 @@ a {
   margin: 0px 10px 10px 0px;
 }
 .mainContent__sidebar-signup-title {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -344,7 +344,7 @@ a {
   margin-bottom: 12px;
 }
 .mainContent__sidebar-signup-description {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -358,14 +358,14 @@ a {
   border-radius: 3px;
   margin-bottom: 10px;
   padding: 17px 15px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 18px;
 }
 .mainContent__sidebar-signup-input::placeholder {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -374,7 +374,7 @@ a {
   text-align: left;
 }
 .mainContent__sidebar-signup-button {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -392,7 +392,7 @@ a {
 }
 .pagination {
   display: inline-block;
-  font-family: PT Sans;
+  font-family: "PT Sans";
 }
 #pagination1{
 width: 40px;
@@ -421,7 +421,7 @@ align-content: center;
   padding-bottom: 79px;
 }
 .mostPopularBottom__name {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -446,7 +446,7 @@ align-content: center;
   border-radius: 5px;
 }
 .mostPopularBottom__containerTitle {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -455,7 +455,7 @@ align-content: center;
   margin-bottom: 10px;
 }
 .mostPopularBottom__containerLabel {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: italic;
   font-weight: normal;
   font-size: 14px;
@@ -479,7 +479,7 @@ align-content: center;
   margin-bottom: 30px;
 }
 .footerContent__ourCompany-description {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -488,7 +488,7 @@ align-content: center;
   margin-bottom: 64px;
 }
 .footerContent__ourCompany-title {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -509,7 +509,7 @@ align-content: center;
   max-width: 295px;
 }
 .footerContent__recentPosts-name {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -535,7 +535,7 @@ align-content: center;
   text-align: left;
 }
 .footerContent__recentPosts-itemTitle {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 15px;
@@ -544,7 +544,7 @@ align-content: center;
   margin-bottom: 13px;
 }
 .footerContent__recentPosts-itemLabel {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: italic;
   font-weight: normal;
   font-size: 14px;
@@ -555,7 +555,7 @@ align-content: center;
   max-width: 270px;
 }
 .footerContent__newsletter-title {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 20px;
@@ -570,7 +570,7 @@ align-content: center;
   margin-bottom: 10px;
   padding: 17px 15px;
   border: none;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -578,7 +578,7 @@ align-content: center;
   color: #AEB3BB;
 }
 .footerContent__newsletter-input::placeholder {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -587,7 +587,7 @@ align-content: center;
 }
 .footerContent__newsletter-button {
   padding: 17px 63px;
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -605,7 +605,7 @@ align-content: center;
 }
 .footer__bootomSide-copyright {
 
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -622,7 +622,7 @@ align-content: center;
   justify-content: space-between;
 }
 .footer__bootomSide-navbarItem {
-  font-family: PT Sans;
+  font-family: "PT Sans";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
