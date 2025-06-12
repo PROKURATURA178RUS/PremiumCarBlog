@@ -57,6 +57,10 @@ a {
   margin-right: 0;
 }
 
+.topmenu__link:hover {
+  color: gray;
+}
+
 .topmenu__link:active {
   color: rgb(221, 11, 144);
 }
@@ -271,6 +275,12 @@ a {
   margin-bottom: 60px;
 }
 
+.mainContent__sidebar-articleButton:hover {
+  background-color: gray;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Добавляем тень для эффекта подсветки */
+}
+
 .mainContent__sidebar-postsName {
   font-family: "PT Sans";
   font-style: normal;
@@ -337,11 +347,18 @@ a {
   border-radius: 3px;
 }
 
+.mainContent__sidebar-instagramLinkContain:hover {
+  background-color: gray;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); 
+}
+
 .mainContent__sidebar-instagramLink {
-  padding: 17px 75px;
+  padding: 17px 73px;
   border-radius: 3px;
   margin-bottom: 60px;
 }
+
 
 .mainContent__sidebar-tagsListFlex {
   display: flex;
@@ -432,6 +449,12 @@ a {
   padding: 17px 15px;
   border: none;
   cursor: pointer;
+}
+
+.mainContent__sidebar-signup-button:hover {
+  background-color: gray;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); 
 }
 
 .center {
