@@ -23,8 +23,8 @@ a {
 }
 
 .topmenu {
-  padding-top: 37px;
-  padding-bottom: 36px;
+  padding-top: 25px;
+  padding-bottom: 45px;
   background-color: #000000;
 }
 
@@ -322,7 +322,6 @@ a {
 .mainContent__sidebar-articleButton:hover {
   background-color: gray;
   border: none;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Добавляем тень для эффекта подсветки */
 }
 
 .mainContent__sidebar-articleButton:active {
@@ -599,35 +598,35 @@ a {
 }
 
 .mostPopularBottom__flexItem:nth-child(1){
-  transition: 1s; /* Время эффекта */
+  transition: 1s;
 }
 
 .mostPopularBottom__flexItem:nth-child(1):hover{
-  transform: scale(1.1); /* Увеличиваем масштаб */
+  transform: scale(1.1);
 }
 
 .mostPopularBottom__flexItem:nth-child(2){
-  transition: 1s; /* Время эффекта */
+  transition: 1s; 
 }
 
 .mostPopularBottom__flexItem:nth-child(2):hover{
-  transform: scale(1.1); /* Увеличиваем масштаб */
+  transform: scale(1.1);
 }
 
 .mostPopularBottom__flexItem:nth-child(3){
-  transition: 1s; /* Время эффекта */
+  transition: 1s; 
 }
 
 .mostPopularBottom__flexItem:nth-child(3):hover{
-  transform: scale(1.1); /* Увеличиваем масштаб */
+  transform: scale(1.1); 
 }
 
 .mostPopularBottom__flexItem:nth-child(4){
-  transition: 1s; /* Время эффекта */
+  transition: 1s; 
 }
 
 .mostPopularBottom__flexItem:nth-child(4):hover{
-  transform: scale(1.1); /* Увеличиваем масштаб */
+  transform: scale(1.1); 
 }
 
 .mostPopularBottom__flexItem:last-child {
