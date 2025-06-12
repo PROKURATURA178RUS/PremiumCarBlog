@@ -27,18 +27,22 @@ a {
   padding-bottom: 33px;
   background-color: #000000;
 }
+
 .wrapper {
   max-width: 1170px;
   margin: 0 auto;
 }
+
 .topmenu__items {
   display: flex;
   justify-content: space-between;
 }
+
 .topmenu__linksFlex {
   display: flex;
   justify-content: space-between;
 }
+
 .topmenu__link {
   margin-right: 35px;
   font-family: "PT Sans";
@@ -48,19 +52,24 @@ a {
   line-height: 18px;
   color: #FFFFFF;
 }
+
 .topmenu__link:last-child {
   margin-right: 0;
 }
+
 .topmenu__link:active {
   color: rgb(221, 11, 144);
 }
+
 .mostPopular__top {
   padding-top: 30px;
   padding-bottom: 35px;
 }
+
 .mostPopular__picContainer {
   display: flex;
 }
+
 .mostPopular__leftSide {
   flex: 0 0 32.222%;
   margin-right: 25px;
@@ -72,12 +81,14 @@ a {
   border-radius: 5px;
   overflow: hidden;
 }
+
 .mostPopular__rightSide {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   margin-bottom: -30px;
 }
+
 .mostPopular__item {
   flex: 0 0 48.051948052%;
   position: relative;
@@ -98,6 +109,7 @@ a {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0.75) 82.82%);
   color: white;
 }
+
 .mostPopular__label {
   font-family: "PT Sans";
   font-style: normal;
@@ -107,6 +119,7 @@ a {
   color: #FFFFFF;
   margin-bottom: 10px;
 }
+
 .mostPopular__title {
   font-family: "PT Sans";
   font-style: normal;
@@ -120,19 +133,24 @@ a {
   padding-top: 30px;
   padding-bottom: 80px;
 }
+
 .mainContent__flex {
   display: flex;
+  padding-top: 74.68px;
 }
+
 .mainContent__cardsItems {
   flex: 0 0 65.811965812%;
   margin-right: 125px;
 }
+
 .mainContent__cardsItems-item {
   position: relative;
   z-index: 1;
   padding-top: 315px;
   margin-bottom: 70px;
 }
+
 .mainContent__cardsItems-itemPic {
   border-radius: 8px;
   position: absolute;
@@ -141,6 +159,7 @@ a {
   top: 0;
   z-index: -1;
 }
+
 .mainContent__cardsItems-itemContent {
   background-color: #fff;
   position: relative;
@@ -153,6 +172,7 @@ a {
   padding-left: 30px;
   padding-right: 86px;
 }
+
 .mainContent__cardsItems-tag {
   padding: 4px 12px;
   color: #FFFFFF;
@@ -167,6 +187,7 @@ a {
   font-size: 12px;
   line-height: 16px;
 }
+
 .mainContent__cardsItems-title {
   font-family: "PT Sans";
   font-style: normal;
@@ -176,6 +197,7 @@ a {
   color: #171717;
   margin-bottom: 15px;
 }
+
 .mainContent__cardsItems-label {
   font-family: "PT Sans";
   font-style: italic;
@@ -185,6 +207,7 @@ a {
   color: #666666;
   margin-bottom: 15px;
 }
+
 .mainContent__cardsItems-description {
   font-family: "PT Sans";
   font-style: normal;
@@ -193,9 +216,11 @@ a {
   line-height: 24px;
   color: #666666;
 }
+
 .mainContent__sidebar-articlePic {
   margin-bottom: 20px;
 }
+
 .mainContent__sidebar-articleName {
   font-family: "PT Sans";
   font-style: normal;
@@ -207,6 +232,7 @@ a {
   margin-bottom: 10px;
   text-align: left;
 }
+
 .mainContent__sidebar-articlePosition {
   font-family: "PT Sans";
   font-style: italic;
@@ -218,6 +244,7 @@ a {
   margin-bottom: 14px;
   text-align: left;
 }
+
 .mainContent__sidebar-articleContent {
   font-family: "PT Sans";
   font-style: normal;
@@ -228,6 +255,7 @@ a {
   margin-bottom: 21px;
   text-align: left;
 }
+
 .mainContent__sidebar-articleButton {
   background: #232323;
   border-radius: 5px;
@@ -242,6 +270,7 @@ a {
   border: none;
   margin-bottom: 60px;
 }
+
 .mainContent__sidebar-postsName {
   font-family: "PT Sans";
   font-style: normal;
@@ -252,12 +281,15 @@ a {
   color: #171717;
   margin-bottom: 23px;
 }
+
 .mainContent__sidebar-posts {
   position: relative;
 }
+
 .mainContent__sidebar-postsPic {
   margin-bottom: 20px;
 }
+
 .mainContent__sidebar-postsTitle {
   font-family: "PT Sans";
   font-style: normal;
@@ -267,6 +299,7 @@ a {
   color: #171717;
   margin-bottom: 10px;
 }
+
 .mainContent__sidebar-postsLabel {
   font-family: "PT Sans";
   font-style: italic;
@@ -276,16 +309,19 @@ a {
   color: #666666;
   margin-bottom: 67px;
 }
+
 .mainContent__sidebar-instagramFlex {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
 .mainContent__sidebar-instagramPic {
   width: 130px;
   height: 130px;
   margin-bottom: 10px;
 }
+
 .mainContent__sidebar-instagram-title {
   font-family: "PT Sans";
   font-style: normal;
@@ -295,15 +331,18 @@ a {
   color: #171717;
   margin-bottom: 25px;
 }
+
 .mainContent__sidebar-instagramLinkContain {
   background: #232323;
   border-radius: 3px;
 }
+
 .mainContent__sidebar-instagramLink {
   padding: 17px 75px;
   border-radius: 3px;
   margin-bottom: 60px;
 }
+
 .mainContent__sidebar-tagsListFlex {
   display: flex;
   justify-content: flex-start ;
@@ -311,6 +350,7 @@ a {
   margin-right: -10px;
   margin-bottom: 65px;
 }
+
 .mainContent__sidebar-tagsList-title {
   text-align: left;
   font-family: "PT Sans";
@@ -321,6 +361,7 @@ a {
   color: #171717;
   margin-bottom: 26px;
 }
+
 .mainContent__sidebar-tagsList-item {
   padding: 7px 17px;
   font-family: "PT Sans";
@@ -333,6 +374,7 @@ a {
   border-radius: 3px;
   margin: 0px 10px 10px 0px;
 }
+
 .mainContent__sidebar-signup-title {
   font-family: "PT Sans";
   font-style: normal;
@@ -343,6 +385,7 @@ a {
   color: #171717;
   margin-bottom: 12px;
 }
+
 .mainContent__sidebar-signup-description {
   font-family: "PT Sans";
   font-style: normal;
@@ -352,6 +395,7 @@ a {
   color: #666666;
   margin-bottom: 27px;
 }
+
 .mainContent__sidebar-signup-input {
   width: 100%;
   border: 1px solid #E5E5E5;
@@ -364,6 +408,7 @@ a {
   font-size: 16px;
   line-height: 18px;
 }
+
 .mainContent__sidebar-signup-input::placeholder {
   font-family: "PT Sans";
   font-style: normal;
@@ -373,6 +418,7 @@ a {
   color: #AEB3BB;
   text-align: left;
 }
+
 .mainContent__sidebar-signup-button {
   font-family: "PT Sans";
   font-style: normal;
@@ -387,21 +433,48 @@ a {
   border: none;
   cursor: pointer;
 }
+
 .center {
   text-align: center;
 }
+
 .pagination {
   display: inline-block;
   font-family: "PT Sans";
 }
+
 #pagination1{
-width: 40px;
-height: 40px;
-align-content: center;  
+  width: 40px;
+  height: 40px;
+  align-items: center;  
 }
+
 #pagination2{
-  align-content: center; 
+  align-items: center; 
 }
+
+#pagination3{
+  align-items: center; 
+}
+
+#pagination4{
+  align-items: center; 
+}
+
+#pagination5{
+  align-items: center; 
+}
+
+#pagination6{
+  align-items: center; 
+}
+
+#pagination7{
+  width: 40px;
+  height: 40px;
+  align-items: center; 
+}
+
 .pagination a {
   color: black;
   float: left;
@@ -412,14 +485,17 @@ align-content: center;
   margin: 0 4px;
   border-radius: 10%;
 }
+
 .pagination a.active {
   background-color: rgb(0, 0, 0);
   color: white;
   border: 1px solid #FFFFFF;
 }
+
 .mostPopularBottom {
   padding-bottom: 79px;
 }
+
 .mostPopularBottom__name {
   font-family: "PT Sans";
   font-style: normal;
@@ -430,21 +506,26 @@ align-content: center;
   color: #171717;
   margin-bottom: 23px;
 }
+
 .mostPopularBottom__flex {
   display: flex;
   justify-content: space-between;
 }
+
 .mostPopularBottom__flexItem {
   margin-right: 30px;
   position: relative;
 }
+
 .mostPopularBottom__flexItem:last-child {
   margin-right: -30px;
 }
+
 .mostPopularBottom__containerPic {
   margin-bottom: 20px;
   border-radius: 5px;
 }
+
 .mostPopularBottom__containerTitle {
   font-family: "PT Sans";
   font-style: normal;
@@ -454,6 +535,7 @@ align-content: center;
   color: #171717;
   margin-bottom: 10px;
 }
+
 .mostPopularBottom__containerLabel {
   font-family: "PT Sans";
   font-style: italic;
@@ -462,22 +544,27 @@ align-content: center;
   line-height: 18px;
   color: #666666;
 }
+
 .footerContent {
   padding-top: 62px;
   padding-bottom: 49px;
   background: #171717;
 }
+
 .footerContent__items {
   display: flex;
   justify-content: space-between;
 }
+
 .footerContent__ourCompany {
   max-width: 280px;
   margin-right: 129px;
 }
+
 .footerContent__ourCompany-logo {
   margin-bottom: 30px;
 }
+
 .footerContent__ourCompany-description {
   font-family: "PT Sans";
   font-style: normal;
@@ -487,6 +574,7 @@ align-content: center;
   color: #CECECE;
   margin-bottom: 64px;
 }
+
 .footerContent__ourCompany-title {
   font-family: "PT Sans";
   font-style: normal;
@@ -496,18 +584,22 @@ align-content: center;
   color: #FFFFFF;
   margin-bottom: 23px;
 }
+
 .footerContent__ourCompany-social {
   display: flex;
   justify-content: flex-start;
 }
+
 .footerContent__ourCompany-socialPic {
   width: 34px;
   margin-right: 15px;
 }
+
 .footerContent__recentPosts {
   margin-right: 109px;
   max-width: 295px;
 }
+
 .footerContent__recentPosts-name {
   font-family: "PT Sans";
   font-style: normal;
@@ -517,23 +609,28 @@ align-content: center;
   color: #FFFFFF;
   margin-bottom: 28px;
 }
+
 .footerContent__recentPosts-item {
   display: flex;
   margin-bottom: 20px;
 }
+
 .footerContent__recentPosts-itemPicContainer {
   margin-right: 20px;
   width: 190px;
   height: 95px;
 }
+
 .footerContent__recentPosts-pic {
   width: 95px;
   height: 95px;
   border-radius: 3px;
 }
+
 .footerContent__recentPosts-itemText {
   text-align: left;
 }
+
 .footerContent__recentPosts-itemTitle {
   font-family: "PT Sans";
   font-style: normal;
@@ -543,6 +640,7 @@ align-content: center;
   color: #FFFFFF;
   margin-bottom: 13px;
 }
+
 .footerContent__recentPosts-itemLabel {
   font-family: "PT Sans";
   font-style: italic;
@@ -551,9 +649,11 @@ align-content: center;
   line-height: 14px;
   color: #CECECE;
 }
+
 .footerContent__newsletter {
   max-width: 270px;
 }
+
 .footerContent__newsletter-title {
   font-family: "PT Sans";
   font-style: normal;
@@ -563,6 +663,7 @@ align-content: center;
   color: #FFFFFF;
   margin-bottom: 38px;
 }
+
 .footerContent__newsletter-input {
   width: 100%;
   background: #373737;
@@ -577,6 +678,7 @@ align-content: center;
   line-height: 18px;
   color: #AEB3BB;
 }
+
 .footerContent__newsletter-input::placeholder {
   font-family: "PT Sans";
   font-style: normal;
@@ -585,6 +687,7 @@ align-content: center;
   line-height: 18px;
   color: #AEB3BB;
 }
+
 .footerContent__newsletter-button {
   padding: 17px 63px;
   font-family: "PT Sans";
@@ -598,11 +701,13 @@ align-content: center;
   border: none;
   cursor: pointer;
 }
+
 .footer__bootomSide {
   background: #000000;
   padding-top: 39px;
   padding-bottom: 37px;
 }
+
 .footer__bootomSide-copyright {
 
   font-family: "PT Sans";
@@ -612,15 +717,18 @@ align-content: center;
   line-height: 18px;
   color: #FFFFFF;
 }
+
 .footer__bootomSide-navbar {
   display: flex;
   justify-content: space-between;
   width: 353px;
 }
+
 .footer__bootomSide-copyrightContainer {
   display: flex;
   justify-content: space-between;
 }
+
 .footer__bootomSide-navbarItem {
   font-family: "PT Sans";
   font-style: normal;
@@ -630,6 +738,7 @@ align-content: center;
   color: #FFFFFF;
   margin-right: 30px;
 }
+
 .footer__bootomSide-navbarItem:last-child {
   margin-right: -30px;
 }
